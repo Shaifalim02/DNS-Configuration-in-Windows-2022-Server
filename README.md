@@ -4,9 +4,10 @@ Whether you're building a lab environment or setting up enterprise infrastructur
 ---
 
 ### 🧠 What You’ll Learn
-- How to install the DNS Server role via Server Manager (Image 2)
-- How to verify DNS setup in the Server Manager dashboard (Image 3)
-- How to manage DNS zones and records using DNS Manager (Image 1)
+- How to manage DNS zones and records using DNS Manager 
+- How to install the DNS Server role via Server Manager 
+- How to verify DNS setup in the Server Manager dashboard 
+
 
 
 ## 🔧 Step-by-Step DNS Configuration

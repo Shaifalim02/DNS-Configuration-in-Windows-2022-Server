@@ -41,9 +41,9 @@ Whether you're building a lab environment or setting up enterprise infrastructur
 ### ScreenShots WalkThrough
 | Steps | Description | ScreenShot |
 |-------|-------------|------------|
-|  1️⃣  | Shows configured forward & reverse zones, AD-integrated folders, and forwarders. | ![Image Alt](https://github.com/Shaifalim02/Windows_Server_2022/blob/8990e543770d816af5d0fbb52cf10a2ac3182821/image.png) |
-| 2️⃣   | DNS Server role is selected and installed via Server Manager. | ![Image Alt](https://github.com/Shaifalim02/Windows_Server_2022/blob/7016a5884228af6273629b74566805a92eb187f4/image%201.png) |
-| 3️⃣   | Overview of installed roles (AD DS, DNS, File Services) and their status. | ![Image Alt](https://github.com/Shaifalim02/Windows_Server_2022/blob/68191814b846196a0190463d8edcac2bdaac953a/image%202.png) |
+|  1️⃣  | Overview of installed roles (AD DS, DNS, File Services) and their status. | ![Image Alt](https://github.com/Shaifalim02/DNS-Configuration-in-Windows-2022-Server/blob/949994b052bb7381619496b5b1a296f469f87441/Server%20Manager%20Dashboard.jpeg) |
+| 2️⃣   | DNS Server role is selected and installed via Server Manager. | ![Image Alt](https://github.com/Shaifalim02/DNS-Configuration-in-Windows-2022-Server/blob/949994b052bb7381619496b5b1a296f469f87441/Server%20Roles%20Step.jpeg) |
+| 3️⃣   | Shows configured forward & reverse zones, AD-integrated folders, and forwarders. | ![Image Alt](https://github.com/Shaifalim02/DNS-Configuration-in-Windows-2022-Server/blob/949994b052bb7381619496b5b1a296f469f87441/DNS%20Console.jpg) |
 
 ---
 

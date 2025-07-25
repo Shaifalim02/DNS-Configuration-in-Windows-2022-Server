@@ -1,0 +1,1 @@
+# DNS-Configuration-in-Windows-2022-Server

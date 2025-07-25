@@ -60,7 +60,7 @@ DNS is the **backbone of Active Directory** and a vital component in enterprise 
 ---
 
 ### 💬 Got Tips or Troubleshooting Stories?
-Have you configured DNS on Windows Server 2022? Share your best practices or common gotchas in the [Discussions](https://github.com/Shaifalim02/Windows_Server_2022/discussions) section!
+Have you configured DNS on Windows Server 2022? Share your best practices or common gotchas in the [Discussions](https://github.com/Shaifalim02/DNS-Configuration-in-Windows-2022-Server/discussions) section!
 
 ---
 
